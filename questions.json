@@ -1,0 +1,166 @@
+
+
+[
+    {
+     "question": "Ποιά είναι η πρωτέυουσα της Ελλάδος;",
+     "answers" : [
+
+    {
+     "text": ["θεσσαλονίκη"],
+     "correct": false
+    },
+    {
+     "text":  ["Αθήνα"],
+     "correct": true
+    },
+    {
+     "text": ["Hράκλειο"],
+     "correct": false
+    },
+    {
+     "text": ["Πάτρα"],
+     "correct": false
+    }]
+   },
+
+
+
+
+
+    {
+     "question": "Ποιό είναι το υψηλότερο βουνό της Ελλάδος;",
+     "answers" : [
+
+    {
+     "text": ["Όλυμπος"],
+     "correct": true
+    },
+    {
+     "text":  ["Σμόλικας"],
+     "correct": false
+    },
+    {
+     "text": ["Βόρας"],
+     "correct": false
+    },
+    {
+     "text": ["Γράμμος"],
+     "correct": false
+    }]
+  },
+
+
+    {
+     "question": "Ποια είναι η μεγαλύτερη λίμνη της Ελλάδος;",
+     "answers" : [
+
+    {
+     "text": ["Τριχωνίδα"],
+     "correct": true
+    },
+    {
+     "text":  ["Βιστωνίδα"],
+     "correct": false
+    },
+    {
+     "text": ["Μεγάλη Πρέσπα"],
+     "correct": false
+    },
+    {
+     "text": ["Δοϊράνη"],
+     "correct": false
+    }]
+  },
+
+
+     {
+      "question": "Πόσα είναι τα γεωγραφικά διαμερίσματα της Ελλάδας;",
+      "answers" : [
+
+     {
+      "text": ["8"],
+      "correct": false
+     },
+     {
+      "text":  ["12"],
+      "correct": false
+     },
+     {
+      "text": ["10"],
+      "correct": false
+     },
+     {
+      "text": ["9"],
+      "correct": true
+     }]
+   },
+
+
+    {
+     "question": "Πρωτεύουσα του Νομού Έβρου είναι η;",
+     "answers" : [
+
+    {
+     "text": ["Ξάνθη"],
+     "correct": false
+    },
+    {
+     "text":  ["Αλεξανδρούπολη"],
+     "correct": true
+    },
+    {
+     "text": ["Καβάλα"],
+     "correct": false
+    },
+    {
+     "text": ["Koμοτηνή"],
+     "correct": false
+    }]
+  },
+
+
+    {
+     "question": "Ποιο είναι το δεύτερο μεγαλύτερο νησί στην Ελλάδα;",
+     "answers" : [
+
+    {
+     "text": ["Ρόδος"],
+     "correct": false
+    },
+    {
+     "text":  ["Κρήτη"],
+     "correct": false
+    },
+    {
+     "text": ["Λέσβος"],
+     "correct": false
+    },
+    {
+     "text": ["Εύβοια"],
+     "correct": true
+    }]
+  },
+
+
+    {
+     "question": "Ποιο είναι το μακρύτερο ποτάμι της Ελλάδας;",
+     "answers" : [
+
+    {
+     "text": ["Αλιακμονάς"],
+     "correct": true
+    },
+    {
+     "text":  ["Πηνειός"],
+     "correct": false
+    },
+    {
+     "text": ["Νέστος"],
+     "correct": false
+    },
+    {
+     "text": ["Έβρος"],
+     "correct": false
+    }]
+   }
+]
