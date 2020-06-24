@@ -59,11 +59,7 @@ function nextQuestion(questions) {
 }
 
 function showScore() {
-  if (score >= 6 ) {
-    console.log(`"ΜΠΡΑΒΟ έχεις" ${score}/${tries}`)
-  } else 
-  console.log(`"ΠΡΟΣΠΑΘΗΣΕ ΞΑΝΑ" ${score}/${tries}`)
-  
+ app.innerHTML = `<h1> Το σκορ σου είναι : ${score}/${tries}<h1>`
 }
 
 
